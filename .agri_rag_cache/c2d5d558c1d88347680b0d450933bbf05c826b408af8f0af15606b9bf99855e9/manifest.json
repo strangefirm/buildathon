@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "pdf_sha256": "adbfe23af496a823c780fe340eaef49380b6df2a8cf98e7ae5e6656743b3ae6b",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "chunk_size": 900,
+  "chunk_overlap": 250,
+  "cache_key": "c2d5d558c1d88347680b0d450933bbf05c826b408af8f0af15606b9bf99855e9",
+  "source_filename": "agri25_26.pdf",
+  "chunk_count": 361,
+  "note": "BM25 is restored from the persisted chunk corpus to avoid unsafe pickle loading."
+}
